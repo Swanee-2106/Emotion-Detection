@@ -1,5 +1,5 @@
 # Emotion-Detection
-A simple Emotion Detection Machine Learning Model
+A simple Emotion Detection Machine Learning Model built in the Training And Internship Program By NULLCLASS
 
 To use this Emotion Detection Model
 1. Just clone or download and unzip my repository
